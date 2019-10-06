@@ -1,7 +1,7 @@
 # A vector of 9 numbers
 my_vector <- c(1, 2, 3, 4, 5, 6)   # length of it is 6
 
-
+hiiiii
 # 3x3 matrix
 our_matrix=matrix(my_vector,2,3)
 
